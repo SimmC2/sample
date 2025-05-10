@@ -1,0 +1,15 @@
+BASE只是简单的首尾帧。
+
+F1的Prompt是：颜色反转，手反转。
+
+可以看到更符合动画这个概念的首尾帧，而符合动图概念的是F1。
+
+无论是正推还是反推，都应该遵循一种因果关系。而首尾帧功能是相对能固定因果关系的手段，或者说多段首尾帧拼接是否可以完成一整个动作模型？
+---
+BASE is just a simple first and last frame.
+
+The prompt for F1 is: color inversion, hand inversion.
+
+We can see the first and last frames that better fit the concept of animation, while F1 aligns more with the concept of GIFs.
+
+Whether it is forward or backward, there should be a causal relationship. The function of the first and last frames is a means to relatively fix this causal relationship, or can multiple segments of first and last frames be combined to complete an entire action model?
